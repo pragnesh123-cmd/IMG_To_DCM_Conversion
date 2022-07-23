@@ -1,0 +1,13 @@
+Json_Attributes,DICOM_tag
+Laterality,0020|0062
+NumberOfFrames,0028|0008
+PatientID,0010|0020
+PatientName,0010|0010
+PixelSpacing,0028|0030
+PerformedProcedureStepStartDate,0040|0244
+PerformedProcedureStepStartTime,0040|0245
+SpacingBetweenSlices,0018|0088
+
+
+
+
